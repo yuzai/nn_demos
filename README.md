@@ -4,3 +4,6 @@
 3. [mnist手写字体识别](http://git.51.nb/maxiaobo/mnist-demo)
 4. [imagenet图像识别](http://git.51.nb/maxiaobo/imagenet)
 
+## more
+有问题随便问哈@maxiaobo
+
